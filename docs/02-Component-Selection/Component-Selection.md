@@ -101,7 +101,7 @@ title: Component Selection Example
 
 1. Panel Mount 100K potentiometer (Breadboard Friendly) - 100KB
 
-    
+    ![alt text](<Panel Mount 100K potentiometer (Breadboard Friendly) - 100KB.jpg>)
 
     * $0.95/each
     * [link to product](https://www.adafruit.com/product/1831)
@@ -114,7 +114,7 @@ title: Component Selection Example
 
     1. Panel Mount 10K Log Potentiometer (Breadboard Friendly) - 10K Log
 
-    
+    ![alt text](<Panel Mount 10K Log Potentiometer (Breadboard Friendly) - 10K Log.jpg>)
 
     * $0.95/each
     * [Link to product](https://www.adafruit.com/product/3391)
@@ -127,8 +127,7 @@ title: Component Selection Example
 
     1. PTA3043-2010CIB104
 
-
-    
+    ![alt text](PTA3043-2010CIB104.webp)
 
     * $1.65/each
     * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/PTA3043-2010CIB104/3781186?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLliFVtbptKHwxHXZOLTZ9Dngt&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qdDayR3wUdt1PhP_Zrn28sFLcQJGq9LoqSQneqg9s4Sqr2sY-hUGlRoC1iQQAvD_BwE)
@@ -149,7 +148,7 @@ title: Component Selection Example
 
 1. Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack)
 
-    
+    ![alt text](<Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack).webp>)
 
     * $9.25/each
     * [link to product](https://www.sparkfun.com/wall-adapter-power-supply-12vdc-600ma-barrel-jack.html)
@@ -161,8 +160,8 @@ title: Component Selection Example
     | Uses a barrel jack        | Not a well known supplier        |
 
 1. Switching Split Power Supply ± 12V 500mA Split Supply
-    
 
+    ![alt text](<Switching Split Power Supply ± 12V 500mA Split Supply.jpg>)
 
     * $14.95/each
     * [Link to product](https://www.adafruit.com/product/2591)
@@ -175,7 +174,7 @@ title: Component Selection Example
 
     1. 12V 5A switching power supply
 
-    
+    ![alt text](<12V 5A switching power supply.jpg>)
 
     * $24.95/each
     * [Link to product](https://www.adafruit.com/product/352)
