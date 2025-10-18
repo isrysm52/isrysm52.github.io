@@ -31,7 +31,7 @@ title: Component Selection Example
     | High torque                                 | High heat when used constantly |
     | High speed that can make the door move quickly   | High voltage requirement    |
 
-    1. High Torque 12V DC Worm Gear Motor, 15 RPM
+1. High Torque 12V DC Worm Gear Motor, 15 RPM
 
     ![](<High Torque 12V DC Worm Gear Motor, 15 RPM.webp>)
 
@@ -78,7 +78,7 @@ title: Component Selection Example
     | 16 pins                               | 600mA current Limit |
     | The motor voltage is separate from the logic voltage.   | Does not work under 4.5 V    |
 
-    1. MAX22208AUU+
+1. MAX22208AUU+
 
     ![](MAX22208AUU+.webp)
 
@@ -101,7 +101,7 @@ title: Component Selection Example
 
 1. Panel Mount 100K potentiometer (Breadboard Friendly) - 100KB
 
-    ![alt text](<Panel Mount 100K potentiometer (Breadboard Friendly) - 100KB.jpg>)
+    ![](<Panel Mount 100K potentiometer (Breadboard Friendly) - 100KB.jpg>)
 
     * $0.95/each
     * [link to product](https://www.adafruit.com/product/1831)
@@ -112,7 +112,7 @@ title: Component Selection Example
     | Grippy Shaft| Thin prongs                                     |
     | Can cause bigger speed changes        | Only 300 degrees of rotation        |
 
-    1. Panel Mount 10K Log Potentiometer (Breadboard Friendly) - 10K Log
+1. Panel Mount 10K Log Potentiometer (Breadboard Friendly) - 10K Log
 
     ![alt text](<Panel Mount 10K Log Potentiometer (Breadboard Friendly) - 10K Log.jpg>)
 
@@ -125,9 +125,9 @@ title: Component Selection Example
     | High torque                                 | Thin Prongs |
     | Inexpensive   | Small handle    |
 
-    1. PTA3043-2010CIB104
+1. PTA3043-2010CIB104
 
-    ![alt text](PTA3043-2010CIB104.webp)
+    ![](PTA3043-2010CIB104.webp)
 
     * $1.65/each
     * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/PTA3043-2010CIB104/3781186?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLliFVtbptKHwxHXZOLTZ9Dngt&gclid=CjwKCAjw0sfHBhB6EiwAQtv5qdDayR3wUdt1PhP_Zrn28sFLcQJGq9LoqSQneqg9s4Sqr2sY-hUGlRoC1iQQAvD_BwE)
@@ -148,7 +148,7 @@ title: Component Selection Example
 
 1. Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack)
 
-    ![alt text](<Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack).webp>)
+    ![](<Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack).webp>)
 
     * $9.25/each
     * [link to product](https://www.sparkfun.com/wall-adapter-power-supply-12vdc-600ma-barrel-jack.html)
@@ -161,7 +161,7 @@ title: Component Selection Example
 
 1. Switching Split Power Supply ± 12V 500mA Split Supply
 
-    ![alt text](<Switching Split Power Supply ± 12V 500mA Split Supply.jpg>)
+    ![](<Switching Split Power Supply ± 12V 500mA Split Supply.jpg>)
 
     * $14.95/each
     * [Link to product](https://www.adafruit.com/product/2591)
@@ -172,9 +172,9 @@ title: Component Selection Example
     | Not too much current                                 | Might not need the white power supply line|
     | Up to 12 V| Short cord length   |
 
-    1. 12V 5A switching power supply
+1. 12V 5A switching power supply
 
-    ![alt text](<12V 5A switching power supply.jpg>)
+    ![](<12V 5A switching power supply.jpg>)
 
     * $24.95/each
     * [Link to product](https://www.adafruit.com/product/352)
