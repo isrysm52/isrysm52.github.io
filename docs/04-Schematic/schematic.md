@@ -13,4 +13,4 @@ This schematic is design to support .... (highlight functionally, power, and con
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](Motor_System_Schematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](Motor_System_Schematic.pdf), and the Zip folder of the project [*here*](Motor_System_Schematic.zip).
