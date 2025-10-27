@@ -185,8 +185,7 @@ title: Component Selection Example
     |  You can use any plug adapter                            | Expensive |
     | There's a green indicator light to let you know it's working | Bulky in the middle of wires  |
 
-**Choice:** Option 1: Wall Adapter Power Supply - 12VDC, 600mA (Barrel Jack)
+**Choice:** Option 3: 12V 5A switching power supply
 
-**Rationale:** Though the supplier is not as well known and the data sheet is harder to understand, this had enough current without going overboard. THis is also a lot less bulky and will only be used with the motor. 
-
+**Rationale:** Though the supplier is not as well known and the data sheet is harder to understand, this had enough current without going overboard since this will power the whole system and not just this subsystem.
 
