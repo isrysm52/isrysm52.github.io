@@ -7,7 +7,7 @@ This power budget was for the motor. It was needed because the motor was the onl
 
 >
 
-![budget](isrysm52.github.io/docs/05-Power-Budget/Power_Budget.png)
+![Budget](Power_Budget.png){style width:"350" height:"300;"}
 
 ## Conclusions
 
