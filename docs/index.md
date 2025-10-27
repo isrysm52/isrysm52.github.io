@@ -20,8 +20,7 @@ for<br>
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+* This is the motor design of an automatic door opener. This subsystem is one of four systems in a team project designed to make an automatic door open with sensors instead of buttons or handles. This is for safety and convienience for households that have too many things to juggle going in and out of doors. The motor design itself is built to take commands from two IR sensors, a flex sensor, and a rotary encoder. The [team report.](https://egr304-2025-f-103.github.io/) will show how each subsystem works together as well as the links to the other three subsystems that will be sharing information for this program. 
 
 
 ### My Contribution
