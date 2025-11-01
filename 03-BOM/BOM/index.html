@@ -611,15 +611,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#bill-of-materials-example-as-image" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bill of Materials Example (as Image)
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -826,15 +817,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#bill-of-materials-example-as-image" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bill of Materials Example (as Image)
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -861,7 +843,7 @@
   <h1>Bill of Materials</h1>
 
 <h2 id="overview">Overview</h2>
-<p>written context</p>
+<p>This is the Bill of Materials section of the Motor subsystem. The main components are the motor, the H-bridge, the potentiometer, the 8-pin connector, and the microchip. The additional components are the resistors, the capacitors, the LEDs, test points, the barrel jack, LM7805, and fuses.</p>
 <h2 id="bill-of-materials-example-as-table">Bill of Materials Example (as Table)</h2>
 <p><em>Table ##: An example of one approach to adding your BOM table to this section.</em></p>
 <table>
@@ -880,15 +862,81 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;">8-bit SIPO/SISO Shift Register, SOIC-16 package</td>
+<td style="text-align: left;">12V Motor</td>
 <td style="text-align: left;">1</td>
-<td style="text-align: left;">$0.49</td>
-<td style="text-align: left;">$ 0.49</td>
-<td style="text-align: left;">NXP</td>
-<td style="text-align: left;">74HC595D,112</td>
-<td style="text-align: left;"><a href="https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-112/763550">DigiKey</a></td>
-<td style="text-align: left;"><a href="https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf">datasheet link</a></td>
-<td style="text-align: left;">U1</td>
+<td style="text-align: left;">25.39</td>
+<td style="text-align: left;"><span class="arithmatex">\(25.39\)</span></td>
+<td style="text-align: left;">E-S Motor</td>
+<td style="text-align: left;">5840WG-555PM-590 12V</td>
+<td style="text-align: left;">https://www.robotshop.com/products/e-s-motor-high-torque-12v-dc-worm-gear-motor-15-rpm?qd=3081407f1db71f0fec5903ffe304727d</td>
+<td style="text-align: left;">https://cdn.robotshop.com/rbm/a00a7635-653b-4220-aac9-b0c23c5c5e2c/8/8dfd4a0b-e136-4eb4-92df-334ddc4db4db/d8100fa8_5840wg-555pm-worm-gear-motor.pdf</td>
+<td style="text-align: left;">Motor_IRS1</td>
+</tr>
+<tr>
+<td style="text-align: left;">H-Bridge</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">1.50</td>
+<td style="text-align: left;">$1.50</td>
+<td style="text-align: left;">Adafruit</td>
+<td style="text-align: left;">4489</td>
+<td style="text-align: left;">https://www.adafruit.com/product/4489</td>
+<td style="text-align: left;">:----</td>
+<td style="text-align: left;">H-Bridge_IRS1</td>
+</tr>
+<tr>
+<td style="text-align: left;">Potentiometer</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">1.65</td>
+<td style="text-align: left;">$1.65</td>
+<td style="text-align: left;">Bourns Inc.</td>
+<td style="text-align: left;">PTA3043-2010CIB104</td>
+<td style="text-align: left;">https://www.digikey.com/en/products/detail/bourns-inc/PTA3043-2010CIB104/3781186?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=20243136172&amp;gbraid=0AAAAADrbLliFVtbptKHwxHXZOLTZ9Dngt&amp;gclid=CjwKCAjw0sfHBhB6EiwAQtv5qdDayR3wUdt1PhP_Zrn28sFLcQJGq9LoqSQneqg9s4Sqr2sY-hUGlRoC1iQQAvD_BwE</td>
+<td style="text-align: left;">https://www.bourns.com/docs/Product-Datasheets/pta.pdf</td>
+<td style="text-align: left;">Slide_100k_Potentiometer_IRS1</td>
+</tr>
+<tr>
+<td style="text-align: left;">8-pin Connector</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">:---------------</td>
+<td style="text-align: left;">:-----</td>
+<td style="text-align: left;">:--------</td>
+<td style="text-align: left;">:-----</td>
+<td style="text-align: left;">:-----</td>
+<td style="text-align: left;">:----</td>
+<td style="text-align: left;">U4, U5, U15</td>
+</tr>
+<tr>
+<td style="text-align: left;">LM7805</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">0.50</td>
+<td style="text-align: left;">0.50</td>
+<td style="text-align: left;">STMicroelectronics</td>
+<td style="text-align: left;">L7805CV</td>
+<td style="text-align: left;">https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964</td>
+<td style="text-align: left;">https://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</td>
+<td style="text-align: left;">U13</td>
+</tr>
+<tr>
+<td style="text-align: left;">Microchip</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">9.99</td>
+<td style="text-align: left;">$9.99</td>
+<td style="text-align: left;">Microchip</td>
+<td style="text-align: left;">DM164150</td>
+<td style="text-align: left;">https://www.microchipdirect.com/dev-tools/DM164150?productLoaded=true&amp;allDevTools=true</td>
+<td style="text-align: left;">https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf</td>
+<td style="text-align: left;">PIC18F57Q43_CURIOSITY_NANO_IRS1</td>
+</tr>
+<tr>
+<td style="text-align: left;">Resistors</td>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;">12.99</td>
+<td style="text-align: left;">$12.99</td>
+<td style="text-align: left;">WWZMDiB Store</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">PRLTA 109</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">R1, R2, R3</td>
 </tr>
 <tr>
 <td style="text-align: left;">0.1 µF Ceramic Capacitor, +/-10%, X7R, 50V, 0805 package</td>
@@ -901,16 +949,63 @@
 <td style="text-align: left;">n/a</td>
 <td style="text-align: left;">C2, C4, C6, C7, C8, C9, C10, C11, C12, C16</td>
 </tr>
+<tr>
+<td style="text-align: left;">Green LED</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">12.99</td>
+<td style="text-align: left;">$12.99</td>
+<td style="text-align: left;">WWZMDiB Store</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">PRLTA 109</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">D1</td>
+</tr>
+<tr>
+<td style="text-align: left;">Red LED</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">12.99</td>
+<td style="text-align: left;">$12.99</td>
+<td style="text-align: left;">WWZMDiB Store</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">PRLTA 109</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">D2</td>
+</tr>
+<tr>
+<td style="text-align: left;">Test Points</td>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;">12.99</td>
+<td style="text-align: left;">$12.99</td>
+<td style="text-align: left;">WWZMDiB Store</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">PRLTA 109</td>
+<td style="text-align: left;">n/a</td>
+<td style="text-align: left;">U1, U2, U3, U12, U14</td>
+</tr>
+<tr>
+<td style="text-align: left;">Barrel Jack</td>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;">0.76</td>
+<td style="text-align: left;">$0.76</td>
+<td style="text-align: left;">Same Sky (Formerly CUI Devices)</td>
+<td style="text-align: left;">PJ-102AH</td>
+<td style="text-align: left;">https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448</td>
+<td style="text-align: left;">https://www.sameskydevices.com/product/resource/pj-102ah.pdf</td>
+<td style="text-align: left;">J1</td>
+</tr>
+<tr>
+<td style="text-align: left;">Fuses</td>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;">0.56</td>
+<td style="text-align: left;">$1.12</td>
+<td style="text-align: left;">Littelfuse Inc.</td>
+<td style="text-align: left;">0235003.MXP</td>
+<td style="text-align: left;">https://www.digikey.com/en/products/detail/littelfuse-inc/0235003-MXP/778152</td>
+<td style="text-align: left;">https://www.littelfuse.com/assetdocs/littelfuse_fuse_235_datasheet.pdf?assetguid=79b16c87-8337-4c9c-96d1-6ac09ce4e440</td>
+<td style="text-align: left;">F1, F2</td>
+</tr>
 </tbody>
 </table>
-<p>Note: Setting it up as a table is nice because it is completely viewable without scaling issues. <ins>Downside</ins> is that you have to do the math.</p>
-<ul>
-<li>You could also import your BOM via a screenshot of the spreadsheet created BOM</li>
-</ul>
-<h2 id="bill-of-materials-example-as-image">Bill of Materials Example (as Image)</h2>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../BOM-Screenshot.png" data-desc-position="bottom"><img _2000_="&quot;2000&quot;" alt="" src="../BOM-Screenshot.png" style="style" width:="width:"></a>
-<strong>Figure 2:</strong> Example Bill of Materials as a screenshot.</p>
-<p>As you can see, the text can be difficult to read without opening the image.</p>
 
 
 
