@@ -8,9 +8,9 @@ tags:
 ## Overview
 This is the Bill of Materials section of the Motor subsystem. The main components are the motor, the H-bridge, the potentiometer, the 8-pin connector, and the microchip. The additional components are the resistors, the capacitors, the LEDs, test points, the barrel jack, LM7805, and fuses.
 
-## Bill of Materials Example (as Table)
+## Bill of Materials
 
-*Table ##: An example of one approach to adding your BOM table to this section.*
+*Table 01: Full BOM for the Motor and Connecting Components
 
 | **Part Name/Description** | **Qty** | **Unit Cost** | **Total Cost** | **Manufacture** | **Manufacturer #** | **Vendor Link** |**Datasheet Link** | **Schematic Reference Designators** |
 |:--------------------|:----|:---------------|:-----|:--------|:-----|:-----|:----|:-----|
