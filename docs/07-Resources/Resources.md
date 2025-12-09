@@ -1,5 +1,5 @@
 ---
-title: Code
+title: Resources
 tags:
 - tag1
 - tag2
@@ -11,7 +11,12 @@ This is the code of the updated schematic for the motor system. This shows how t
 
 In this code, there are options to use PWM and a slide potentiometer to meter the motor speed. This is for future reference when as this code develops. 
 
-Here is the code: 
+## Zip Access
+
+Here is a zip folder for the program [here](Microphone_Design.zip). 
+
+
+## Here is the code: 
 
 ```
  /*
@@ -351,7 +356,6 @@ int main(void)
 ```
 
 
-Here is a zip folder for the program [here](Microphone_Design.zip). 
 
 
 
