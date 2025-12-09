@@ -149,5 +149,6 @@ title: Component Selection Example
 | Motor | GEARMOTOR 110 RPM 12V MICR METAL | 
 | H-bridge | L9110H H-Bridge Motor Driver for DC Motors - 8 DIP - 2.5V-12V 800mA | 
 | Potentiometer | PTA3043-2010CIB104 | 
+| Voltage Regulator | LM7805 | 
 
 
