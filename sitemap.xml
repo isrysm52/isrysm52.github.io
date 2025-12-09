@@ -36,12 +36,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/07-Microcontroller-Code/Code/</loc>
-         <lastmod>2025-12-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/</loc>
+         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/07-Resources/Resources/</loc>
          <lastmod>2025-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -52,16 +47,6 @@
     </url>
     <url>
          <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/</loc>
-         <lastmod>2025-12-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/charts/</loc>
-         <lastmod>2025-12-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/esp-32-table/</loc>
          <lastmod>2025-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>

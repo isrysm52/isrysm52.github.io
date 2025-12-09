@@ -341,12 +341,12 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../07-Microcontroller-Code/Code/" class="md-tabs__link">
+        <a href="../../07-Resources/Resources/" class="md-tabs__link">
           
   
     
   
-  07 Microcontroller Code
+  07 Resources
 
         </a>
       </li>
@@ -361,7 +361,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../Appendix/" class="md-tabs__link">
+        <a href="../../Appendix/another-subfile/" class="md-tabs__link">
           
   
     
@@ -841,11 +841,11 @@
         
   
   
-    <a href="../../07-Microcontroller-Code/Code/" class="md-nav__link">
+    <a href="../../07-Resources/Resources/" class="md-nav__link">
       
   
   <span class="md-ellipsis">
-    07 Microcontroller Code
+    07 Resources
   </span>
   
 
@@ -870,14 +870,6 @@
     
       
         
-          
-        
-      
-        
-      
-        
-      
-        
       
         
       
@@ -897,7 +889,7 @@
         
   
   
-    <a href="../../Appendix/" class="md-nav__link">
+    <a href="../../Appendix/another-subfile/" class="md-nav__link">
       
   
   <span class="md-ellipsis">
@@ -995,9 +987,10 @@
 <h2 id="overview">Overview</h2>
 <p>This power budget was for the motor. It was needed because the motor was the only component required to use 12V. This meant that the power sources either needed to be separate or that the voltage regulators would draw power from this supply. Since the other subsystems will be drawing power from this supply, a power budget needed to be created to ensure that all components meet requirements and current withing a 12V 5A power supply. </p>
 <blockquote></blockquote>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Power_Budget.png" data-desc-position="bottom"><img alt="Budget" height:_300_="height:&quot;300;&quot;" src="../Power_Budget.png" style="style" width:_350_="width:&quot;350&quot;"></a></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Power_Budget.png" data-desc-position="bottom"><img alt="Budget" src="../Power_Budget.png"></a></p>
 <h2 id="conclusions">Conclusions</h2>
 <p>From the prepare Power Budget, I am within a reasonable amount will well over extra that other subsystems can use. <a href="https://egr304-2025-f-103.github.io/Team%20Power%20Budget/">Here</a> is the power budget of the whole team which shows that even with a significant 25% increase of our power budget, we still have extra current to use. </p>
+<p>We are using 12V because of the motor. The motor needs that power to push and pull a door open. That being said, the amps need to be small. The H-bridge could only take so much amps going through it so we took a amps size of 3A. THis all works while everyone has a voltage regulator even though they wiull be getting power from the motor system through the power source. Because they all share the power source we needed to make sure we had just enough amps and voltage to get through each subsystem with some buffer. </p>
 <h2 id="resouces">Resouces</h2>
 <p>The power budget as a PDF download is available <a href="isrysm52.github.io/docs/05-Power-Budget/Power Budget - Sheet1.pdf"><em>here</em></a>, and a Microsoft Excel Sheet <a href="isrysm52.github.io/docs/05-Power-Budget/Power Budget.xlsx"><em>here</em></a>.</p>
 
