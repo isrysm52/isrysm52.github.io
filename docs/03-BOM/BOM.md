@@ -28,6 +28,7 @@ This is the Bill of Materials section of the Motor subsystem. The main component
 |Barrel Jack| 1 |0.76| $0.76|Same Sky (Formerly CUI Devices)|PJ-102AH|https://www.digikey.com/en/products/detail/cui-devices/PJ-102AH/408448|https://www.sameskydevices.com/product/resource/pj-102ah.pdf| J1 |
 |Fuses| 2 |0.56| $1.12 | Littelfuse Inc. | 0235003.MXP |https://www.digikey.com/en/products/detail/littelfuse-inc/0235003-MXP/778152|https://www.littelfuse.com/assetdocs/littelfuse_fuse_235_datasheet.pdf?assetguid=79b16c87-8337-4c9c-96d1-6ac09ce4e440| F1, F2 |
 
-[Here](docs/03-BOM/Power Budget Motor T103 EGR 304.pdf) is a PDF of the Bill of Materials.
+[Here](Smith-Isaac_Component Selection - Google Forms.pdf) is a PDF of the Bill of Materials.
+
 
 
